@@ -9,7 +9,11 @@ You tell it what you want to achieve. It asks you questions — one at a time �
 - **Boundaries** — what's off limits
 - **The fog** — what's already clear, where you already have solid ground, and what's still unclear
 
-Then it hands you a short **foothold** you can save — the four parts above, written down. That's it. Shaper doesn't make plans or to-do lists; it just gives you firm ground to stand on before you dive in. It's the companion to episode 1 of the video series.
+Then it hands you a short **foothold** you can save — the four parts above, written down. That's the whole job.
+
+**Why start here.** Anything you build with an AI tool is only as good as what you ask it for: a fuzzy idea in, a fuzzy result out. Shaper is the step *before* the asking — it gets you clear on why the thing exists, so everything you make next has something solid to aim at. It doesn't make plans or to-do lists, and it doesn't install anything: the foothold is simply a document for you to keep.
+
+This is a small, first version of a bigger tool. It's the companion to episode 1 — later episodes build on your foothold and show how to put it to work in the AI tools you use.
 
 ## How to use it
 
