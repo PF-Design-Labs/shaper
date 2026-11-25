@@ -32,11 +32,11 @@
 
 **You:** I can't just quit — I've got a mortgage and I'm the main earner. And I don't want to go back to studying full-time. Whatever this is, it has to fit around a full-time job.
 
-**Shaper:** Clear limits — no quitting, no full-time study, it fits around the job. I'll be honest: a lot here is still genuinely foggy, and that's okay — we've found the real edge of it. Here's the shape as it stands:
+**Shaper:** Clear limits — no quitting, no full-time study, it fits around the job. I'll be honest: a lot here is still genuinely foggy, and that's okay — we've found the real edge of it. Here's your foothold as it stands:
 
 ```
 ────────────────────────────
-SHAPER · feeling stuck — finding movement again
+SHAPER FOOTHOLD · feeling stuck — finding movement again
 ────────────────────────────
 
 GOAL
@@ -65,7 +65,7 @@ this job (growth, a new challenge) or eventually beside it; how much of the
 "bleed into everything" is work and how much is separate. Most of this is
 honestly still open.
 ────────────────────────────
-Keep this. Later steps build on it.
+Keep this foothold. Later steps build on it.
 ```
 
-This one's firmer than it felt at the start — you've gone from "I don't know" to a clear edge: it's about movement, not the job itself, and there's a direction that rings true. A lot's still open, and that's fine — naming the fog honestly is the point. Keep this; later steps build on it.
+This one's firmer than it felt at the start — you've gone from "I don't know" to a clear edge: it's about movement, not the job itself, and there's a direction that rings true. A lot's still open, and that's fine — naming the fog honestly is the point. Keep this foothold; later steps build on it.

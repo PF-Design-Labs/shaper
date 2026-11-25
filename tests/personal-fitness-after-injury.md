@@ -32,11 +32,11 @@
 
 **You:** If I'm still doing something after a month without forcing it, and I've got a bit more energy — that's enough to tell me it's real.
 
-**Shaper:** That's a fair signal — still going after a month, without white-knuckling it. I think we've got enough. Here's the shape:
+**Shaper:** That's a fair signal — still going after a month, without white-knuckling it. I think we've got enough. Here's your foothold:
 
 ```
 ────────────────────────────
-SHAPER · getting fit again after an injury
+SHAPER FOOTHOLD · getting fit again after an injury
 ────────────────────────────
 
 GOAL
@@ -64,7 +64,7 @@ Still foggy: whether the calf is actually ready for real load — it hasn't
 been tested or re-checked; and whether football ever comes back in is
 deliberately left open for now.
 ────────────────────────────
-Keep this. Later steps build on it.
+Keep this foothold. Later steps build on it.
 ```
 
-That's firm enough to stand on. The one thing I'd stay honest about is the calf — "fine walking" isn't the same as cleared, and it's the piece most worth not guessing on. Keep this somewhere; later steps build on it.
+That's a firm foothold to stand on. The one thing I'd stay honest about is the calf — "fine walking" isn't the same as cleared, and it's the piece most worth not guessing on. Keep this somewhere; later steps build on it.

@@ -32,11 +32,11 @@
 
 **You:** If I had two or three cafés reordering every week without me chasing them, and it wasn't eating into my shop baking or my evenings, I'd call it working.
 
-**Shaper:** That's a clean signal — repeat orders without chasing, and no bleed into the shop or your time. I think we've got enough to be useful. Here's the shape of it:
+**Shaper:** That's a clean signal — repeat orders without chasing, and no bleed into the shop or your time. I think we've got enough to be useful. Here's your foothold:
 
 ```
 ────────────────────────────
-SHAPER · supplying bread to local cafés
+SHAPER FOOTHOLD · supplying bread to local cafés
 ────────────────────────────
 
 GOAL
@@ -64,7 +64,7 @@ Still foggy: whether mornings can handle four or five accounts without a hire
 or a second oven — the capacity ceiling is unworked-out; café pricing and
 margins aren't known yet.
 ────────────────────────────
-Keep this. Later steps build on it.
+Keep this foothold. Later steps build on it.
 ```
 
-That's the shape, and it's firm enough to build on. The capacity question is the one thing left genuinely open — worth keeping in view. Hang on to this; later steps build on exactly this.
+That's your foothold, and it's firm enough to build on. The capacity question is the one thing left genuinely open — worth keeping in view. Hang on to this; later steps build on exactly this.
